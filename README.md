@@ -9,7 +9,7 @@ Installation
 1. Install the module via composer by running:
 
    ```bash
-   $ composer require --dev zendframework/zend-coding-standard
+   $ composer require --dev imscp/imscp-coding-standard
    ```
 
 2. Add composer scripts into your `composer.json`:
